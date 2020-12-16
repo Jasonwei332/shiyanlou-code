@@ -6,3 +6,6 @@ while i <= 100:
 		print(i)
 	i += 1
 
+
+#for i in range(1,101):
+#	https://github.com/Jasonwei332/shiyanlou-code.git
